@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kern974.github.io/my-repo1-6/sitemap.xml
